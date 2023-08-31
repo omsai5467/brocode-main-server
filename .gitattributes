@@ -1,0 +1,2 @@
+file.mp4 filter=lfs diff=lfs merge=lfs -text
+file.zip filter=lfs diff=lfs merge=lfs -text
